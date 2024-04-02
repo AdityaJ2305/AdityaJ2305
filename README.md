@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityajindal23" target="blank"><img src="https://img.shields.io/twitter/follow/adityajindal23?logo=twitter&style=for-the-badge" alt="adityajindal23" /></a> </p>
 
-- 🌱 "I am currently engaged in an in-depth exploration of Full Stack Development, delving into a comprehensive stack that includes front-end technologies like HTML, CSS, and JavaScript, coupled with back-end technologies such as Node.js. Additionally, I am gaining proficiency in frameworks like React and embracing a holistic understanding of database management, server-side scripting, and the intricacies of building robust, end-to-end web applications."
+- 🌱 "I am currently engaged in an in-depth exploration of Full Stack Development, delving into a comprehensive stack that includes front-end technologies like HTML, CSS, and JavaScript, React  coupled with back-end technologies such as Node.js. Additionally, I am gaining proficiency in frameworks like React and embracing a holistic understanding of database management, server-side scripting, and the intricacies of building robust, end-to-end web applications."
 
 - 🤝 I’m looking for help with **Full stack development**
 
