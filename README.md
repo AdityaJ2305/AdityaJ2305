@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Jindal</h1>
-<h3 align="center">B.Tech First Year (2023-27) at FunctionUp School of Technology | Passionate about Full Stack Development and Continuous Learning 🚀</h3>
+<h3 align="center">B.Tech Undergrad (2023-27) at FunctionUp School of Technology | Passionate about Full Stack Development and Continuous Learning 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaj2305&label=Profile%20views&color=0e75b6&style=flat" alt="adityaj2305" /> </p>
 
