@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aditya Jindal<br>B.Tech Undergrad (2023-27)<br>
+Hi 👋, I'm Aditya Jindal <br> B.Tech Undergrad (2023-27)<br>
 
 
 ## 🌐 Socials:
@@ -29,4 +29,4 @@ Hi 👋, I'm Aditya Jindal<br>B.Tech Undergrad (2023-27)<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=AdityaJ2305&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
