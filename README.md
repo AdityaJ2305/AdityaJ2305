@@ -23,7 +23,6 @@ Hi 👋, I'm Aditya Jindal (that's it ) <br> B.Tech Undergrad (2023-27)<br>
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdityaJ2305&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaJ2305&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJ2305&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
