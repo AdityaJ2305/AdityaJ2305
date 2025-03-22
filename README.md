@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hi 👋, I'm Aditya Jindal (that's it ) <br> B.Tech Undergrad (2023-27)<br>
+Hi 👋, I'm Aditya Jindal  <br> B.Tech Undergrad (2023-27)<br> (that's it )
 
 
 ## 🌐 Socials :
