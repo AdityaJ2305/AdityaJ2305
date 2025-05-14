@@ -1,5 +1,7 @@
 # 💫 About Me :
-Hi 👋, I'm Aditya Jindal  <br> B.Tech Undergrad (2023-27)<br> (that's it)
+Hi 👋, I'm Aditya Jindal  
+B.Tech Undergrad (2023–27)  
+Alone. I don't chase noise
 
 
 ## 🌐 Socials :
