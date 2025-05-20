@@ -1,7 +1,7 @@
-# 💫 About Me :
-Hi 👋, I'm Aditya Jindal  
+# About Me :
+Hey, I'm Aditya Jindal  
 B.Tech Undergrad (2023–27)  
-Alone. I don't chase noise
+value solitude, calm, and focus — often lost in my own thoughts, doing my own thing.
 
 
 ## 🌐 Socials :
