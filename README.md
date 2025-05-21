@@ -5,7 +5,8 @@ value solitude, calm, and focus — often lost in my own thoughts, doing my own 
 
 
 ## 🌐 Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jindal-5232b0260) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jindal-5232b0260)
+
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaJindal23) 
 
 # 💻 Tech Stack :
